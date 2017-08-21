@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class EurekaClientTwo {
+public class EurekaTwoController {
 
 	
 	@Value("${words}")
